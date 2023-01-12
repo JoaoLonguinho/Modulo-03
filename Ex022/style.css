@@ -1,0 +1,13 @@
+body{
+    
+    background: white url('wallpaper.jpg') center center no-repeat fixed;
+    background-size: cover;
+}
+.teste-div{
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    border: 2px black solid;
+    border-radius: 10px;
+}
